@@ -1,0 +1,10 @@
+title       = "mathse"
+baseURL     = "https://mathse-cli.tamnd.com/"
+description = "Search Math Stack Exchange questions"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/mathse-cli"
